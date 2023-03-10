@@ -2,4 +2,4 @@
 
 ## Yana Kuleba
 
-https://github.com/YanaKul/rsschool-cv
+https://yanakul.github.io/rsschool-cv/cv
