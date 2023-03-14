@@ -1,5 +1,1 @@
-# rsschool-cv
-
-## Yana Kuleba
-
-https://yanakul.github.io/rsschool-cv/cv
+https://YanaKul.github.io/rsschool-cv/cv
